@@ -1,0 +1,8 @@
+C:\Users\kacan\source\repos\hesap\hesap\bin\Debug\netcoreapp3.1\hesap.deps.json
+C:\Users\kacan\source\repos\hesap\hesap\bin\Debug\netcoreapp3.1\hesap.dll
+C:\Users\kacan\source\repos\hesap\hesap\bin\Debug\netcoreapp3.1\hesap.pdb
+C:\Users\kacan\source\repos\hesap\hesap\obj\Debug\netcoreapp3.1\hesap.AssemblyInfoInputs.cache
+C:\Users\kacan\source\repos\hesap\hesap\obj\Debug\netcoreapp3.1\hesap.AssemblyInfo.vb
+C:\Users\kacan\source\repos\hesap\hesap\obj\Debug\netcoreapp3.1\hesap.vbproj.CoreCompileInputs.cache
+C:\Users\kacan\source\repos\hesap\hesap\obj\Debug\netcoreapp3.1\hesap.dll
+C:\Users\kacan\source\repos\hesap\hesap\obj\Debug\netcoreapp3.1\hesap.pdb
